@@ -13,4 +13,4 @@ const account = [
     { month: 12, expense: 200 }
 ];
 
-export {account}
+export { account }
