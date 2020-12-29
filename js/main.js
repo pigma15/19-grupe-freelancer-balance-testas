@@ -5,7 +5,7 @@ import { Table } from "./Table.js"
 
 
 new Table({
-    selector: ".table-content",
+    selector: ".table",
     account: account,
     months: menesiai,
 })
